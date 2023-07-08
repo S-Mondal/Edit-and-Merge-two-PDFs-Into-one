@@ -13,7 +13,7 @@
 	* Approach 2: With pikepdf
 
 * Whole thing is implemented on the class basis.
-* If you are looking for the best way to write pdf forms and have so many pages then you should use Approach 3 creating pdf with sting, image etc with Approach 2 merging PDF as per my opinion, but you can always try others out
+* If you are looking for the best way to write pdf forms and have so many pages, then you should use Approach 3 creating pdf with strings, images etc. with Approach 2 merging PDF as per my opinion, but you can always try out other options
 
 ---
 ## Reference: -
